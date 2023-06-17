@@ -1,0 +1,60 @@
+#sled1 {
+    background-color: wheat;
+    height: 30px;
+    width: 8px;
+    margin-top: 30px
+}
+#sled2 {
+    background-color: wheat;
+    height: 30px;
+    width: 8px
+    
+}
+.car img {
+    height: 150px;
+}
+.car {
+    height: 200px;
+    width: 200px;
+    display: inline-flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    justify-content: center;
+}
+#d1 {
+    background-color: chocolate;
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    top: 40%;
+    left: 15%;
+}
+#green {
+    background-color: green;
+    height: 50px;
+    width: 50px;
+}
+#red {
+    background-color: red;
+    height: 50px;
+    width: 50px; 
+}
+#black {
+    background-color: black;
+    height: 50px;
+    width: 50px;
+}
+#oran {
+    background-color: orange;
+    height: 50px;
+    width: 50px;
+}
+#speed {
+    background-color: olive;
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    top: 50%;
+    left: 30%;
+}
